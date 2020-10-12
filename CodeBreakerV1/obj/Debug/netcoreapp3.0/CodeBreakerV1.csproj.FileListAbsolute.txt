@@ -1,0 +1,10 @@
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\bin\Debug\netcoreapp3.0\CodeBreakerV1.exe
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\bin\Debug\netcoreapp3.0\CodeBreakerV1.deps.json
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\bin\Debug\netcoreapp3.0\CodeBreakerV1.runtimeconfig.json
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\bin\Debug\netcoreapp3.0\CodeBreakerV1.runtimeconfig.dev.json
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\bin\Debug\netcoreapp3.0\CodeBreakerV1.dll
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\bin\Debug\netcoreapp3.0\CodeBreakerV1.pdb
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\obj\Debug\netcoreapp3.0\CodeBreakerV1.AssemblyInfoInputs.cache
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\obj\Debug\netcoreapp3.0\CodeBreakerV1.AssemblyInfo.cs
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\obj\Debug\netcoreapp3.0\CodeBreakerV1.dll
+C:\Users\T.Wehner0909\source\repos\CodeBreaker\CodeBreakerV1\obj\Debug\netcoreapp3.0\CodeBreakerV1.pdb
